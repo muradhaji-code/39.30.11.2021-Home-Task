@@ -1,0 +1,13 @@
+$c-white: #fff;
+$c-orange: #e7601e;
+
+.c-orange {
+    color: $c-orange;
+}
+
+section#services-section {
+    background-image: url("../img/services-bg.jpg");
+    background-size: cover;
+    color: $c-white;
+    font-family: "Poppins", sans-serif;
+}

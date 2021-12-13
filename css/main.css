@@ -1,1 +1,11 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+.c-orange {
+  color: #e7601e;
+}
+
+section#services-section {
+  background-image: url("../img/services-bg.jpg");
+  background-size: cover;
+  color: #fff;
+  font-family: "Poppins", sans-serif;
+}
+/*# sourceMappingURL=main.css.map */
